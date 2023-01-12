@@ -1,0 +1,1 @@
+We are going to build a project on Diabetes Prediction using Machine Learning. Machine Learning is very useful in the medical field to detect many diseases in their early stage. Diabetes prediction is one such Machine Learning model which helps to detect diabetes in humans. Also, we will see how to Deploy a Machine Learning model using Streamlit. Let’s get started!
